@@ -1,0 +1,11 @@
+﻿Build started...
+1>------ Build started: Project: Snake_Lib, Configuration: Debug x64 ------
+1>snake.c
+1>M:\שפת c\SnakeGame\Snake_Lib\snake.c(24,1): warning C4005: 'WALLS_COLOR': macro redefinition
+1>M:\שפת c\SnakeGame\Snake_Lib\snake.h(8,1): message : see previous definition of 'WALLS_COLOR'
+1>Snake_Lib.vcxproj -> M:\שפת c\SnakeGame\x64\Debug\Snake_Lib.lib
+1>Done building project "Snake_Lib.vcxproj".
+2>------ Build started: Project: Snake_UnitTest, Configuration: Debug x64 ------
+2>Snake_UnitTest.vcxproj -> M:\שפת c\SnakeGame\x64\Debug\Snake_UnitTest.exe
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:03.111 ==========

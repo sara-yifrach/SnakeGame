@@ -1,0 +1,11 @@
+﻿  are_snakes_equal_test.c
+  can_snake_move_in_direction.c
+  collision_with_itself_test.c
+  create_long_snake_test.c
+  grow_snake_test.c
+  move_snake_test.c
+  Runner.c
+  will_snake_collide_with_border_test.c
+  will_snake_reach_food_on_next_move_test.c
+  Generating Code...
+  Snake_UnitTest.vcxproj -> D:\SnakeGame\x64\Debug\Snake_UnitTest.exe
